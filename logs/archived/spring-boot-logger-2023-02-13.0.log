@@ -1,0 +1,38 @@
+2023-02-13 10:55:10,840 INFO c.n.d.DemoPostgreApplication [main] Starting DemoPostgreApplication using Java 17.0.4.1 with PID 6364 (E:\J_jet\demo-postgre\target\classes started by admin in E:\J_jet\demo-postgre)
+2023-02-13 10:55:10,842 DEBUG c.n.d.DemoPostgreApplication [main] Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-13 10:55:10,842 INFO c.n.d.DemoPostgreApplication [main] The following 1 profile is active: "default"
+2023-02-13 10:55:11,966 WARN o.h.o.deprecation [main] HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-02-13 10:55:12,757 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2023-02-13 10:55:12,758 WARN o.h.e.j.s.SqlExceptionHelper [main] relation "payment" does not exist, skipping
+2023-02-13 10:55:12,759 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2023-02-13 10:55:12,759 WARN o.h.e.j.s.SqlExceptionHelper [main] table "payment" does not exist, skipping
+2023-02-13 10:55:12,760 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2023-02-13 10:55:12,760 WARN o.h.e.j.s.SqlExceptionHelper [main] table "student" does not exist, skipping
+2023-02-13 10:55:12,760 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2023-02-13 10:55:12,760 WARN o.h.e.j.s.SqlExceptionHelper [main] sequence "sequence_generator" does not exist, skipping
+2023-02-13 10:55:13,187 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-13 10:55:13,413 INFO c.n.d.DemoPostgreApplication [main] Started DemoPostgreApplication in 2.863 seconds (process running for 3.249)
+2023-02-13 10:55:13,414 TRACE c.n.d.c.StudentConfig [main] A trace message
+2023-02-13 10:55:13,415 DEBUG c.n.d.c.StudentConfig [main] A debug message
+2023-02-13 10:55:13,415 INFO c.n.d.c.StudentConfig [main] An info message
+2023-02-13 10:55:13,415 WARN c.n.d.c.StudentConfig [main] A warn message
+2023-02-13 10:55:13,415 ERROR c.n.d.c.StudentConfig [main] An error message
+2023-02-13 10:56:04,741 INFO c.n.d.DemoPostgreApplication [main] Starting DemoPostgreApplication using Java 17.0.4.1 with PID 9340 (E:\J_jet\demo-postgre\target\classes started by admin in E:\J_jet\demo-postgre)
+2023-02-13 10:56:04,742 DEBUG c.n.d.DemoPostgreApplication [main] Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-13 10:56:04,743 INFO c.n.d.DemoPostgreApplication [main] The following 1 profile is active: "default"
+2023-02-13 10:56:05,838 WARN o.h.o.deprecation [main] HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-02-13 10:56:06,610 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2023-02-13 10:56:06,611 WARN o.h.e.j.s.SqlExceptionHelper [main] relation "payment" does not exist, skipping
+2023-02-13 10:56:06,611 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2023-02-13 10:56:06,611 WARN o.h.e.j.s.SqlExceptionHelper [main] table "payment" does not exist, skipping
+2023-02-13 10:56:06,612 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2023-02-13 10:56:06,612 WARN o.h.e.j.s.SqlExceptionHelper [main] table "student" does not exist, skipping
+2023-02-13 10:56:06,613 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2023-02-13 10:56:06,613 WARN o.h.e.j.s.SqlExceptionHelper [main] sequence "sequence_generator" does not exist, skipping
+2023-02-13 10:56:07,033 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-13 10:56:07,272 INFO c.n.d.DemoPostgreApplication [main] Started DemoPostgreApplication in 2.818 seconds (process running for 3.192)
+2023-02-13 10:56:07,274 TRACE c.n.d.c.StudentConfig [main] A trace message
+2023-02-13 10:56:07,274 DEBUG c.n.d.c.StudentConfig [main] A debug message
+2023-02-13 10:56:07,274 INFO c.n.d.c.StudentConfig [main] An info message
+2023-02-13 10:56:07,274 WARN c.n.d.c.StudentConfig [main] A warn message
+2023-02-13 10:56:07,275 ERROR c.n.d.c.StudentConfig [main] An error message
