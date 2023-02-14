@@ -1,4 +1,4 @@
-### This small project is for:
+## This small project is for:
 - Demo connecting spring boot with ***postgreSQL***
 - Recording logs to file using ***Slf4j*** by ***Lombok*** annotation
 - Dealing with ***Unit testing***, ***Integration testing*** for restful API using ***AssertJ*** and ***JUnit***, 
